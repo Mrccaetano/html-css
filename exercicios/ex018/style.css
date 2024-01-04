@@ -1,0 +1,33 @@
+@charset "UTF-8";
+#principal{ 
+    background-color: #0B36DE;
+    color: #0BA5DE;
+    text-align: center;
+}
+
+body{ 
+    
+    background-color:#0BA5DE;
+    font-family: 'Shadows Into Light',cursive;
+}   
+p{
+    font-family: 'Shadows Into Light', cursive;
+    color: #0B36DE;
+}
+
+h1,h2 {
+    font-family: 'IBM Plex Mono', monospace;
+    color: #1B0DFA;
+}
+
+.basico{
+    color: #0bde2ebe
+
+}
+.intermediario{
+    color: #9fde0bc5
+}
+.avançado{
+    color: #de0b0bc7
+
+}

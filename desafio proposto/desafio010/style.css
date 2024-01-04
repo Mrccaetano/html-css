@@ -1,0 +1,118 @@
+@font-face {
+    font-family:'idroid';
+    src: url(idroid.otf) format(opentype);
+    font-weight: normal;
+    font-style: normal;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'idroid';
+}
+header{
+    top: 0;
+    left: 0;
+    height: 200px;
+    background-color: #03691b;
+}
+body{
+    background-color: rgb(71, 199, 71);
+}
+.inicio{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+}
+.inicioo{
+    font-family: sans-serif;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 20px;
+    
+}
+nav{
+    padding: 50px;
+    
+}
+.navbar a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bolder;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    text-align: left;
+
+   
+}
+.navbar a:hover{
+    color: rgb(3, 255, 3);
+}
+div{
+    background-color: white;
+    margin: 250px;
+    margin-top: 0px;
+}
+.titulo{
+    color: green;
+    font-family: 'idroid';
+    padding: 15px;
+}
+.conteudo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: justify;
+    text-indent: 30px;
+}
+.subtitulo{
+    background-image: linear-gradient(to right,rgb(126, 212, 126),white);
+    padding: 10px;
+    color: rgb(10, 70, 10)
+}
+imagem{
+    align-items: center;
+}
+h4{
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+.mais{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 10px;
+    text-align: justify;
+    text-indent: 30px;
+    background-color: green;
+}
+ul.lista1 {
+    text-align: right;
+}
+.link{
+    color: rgb(1, 255, 1);
+    text-decoration: none;
+}
+
+.footer{
+    top: 0;
+    left: 0;
+    height: 50px;
+    background-color: rgb(22, 6, 255);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 10px;
+}
